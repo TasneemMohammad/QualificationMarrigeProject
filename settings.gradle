@@ -1,0 +1,2 @@
+rootProject.name='QualificationMarrigeProject'
+include ':app'
