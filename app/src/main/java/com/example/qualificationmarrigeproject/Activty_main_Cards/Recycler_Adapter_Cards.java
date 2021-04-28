@@ -17,7 +17,7 @@ import com.example.qualificationmarrigeproject.Engagement_Activity;
 import com.example.qualificationmarrigeproject.Marriage_Activity;
 import com.example.qualificationmarrigeproject.R;
 
-import java.util.ArrayList;
+
 import java.util.List;
 
 public class Recycler_Adapter_Cards extends RecyclerView.Adapter<Recycler_Adapter_Cards.ViewHolder_Cards> {
