@@ -9,8 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Marriage"></activity>
-        <activity android:name=".Engagement_Activity" />
+        <activity android:name=".Engagement_Activity"></activity>
         <activity android:name=".Before_Engagement_Activity" />
         <activity android:name=".Activty_main_Cards.Cards_Activty" />
         <activity android:name=".MainActivity">
