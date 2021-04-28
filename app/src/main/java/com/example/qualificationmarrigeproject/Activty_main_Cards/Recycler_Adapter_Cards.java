@@ -14,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.qualificationmarrigeproject.Before_Engagement_Activity;
 import com.example.qualificationmarrigeproject.Engagement_Activity;
-import com.example.qualificationmarrigeproject.Marriage;
 import com.example.qualificationmarrigeproject.Marriage_Activity;
 import com.example.qualificationmarrigeproject.R;
 
